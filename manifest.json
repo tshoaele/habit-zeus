@@ -1,0 +1,16 @@
+{
+  "name": "Zeus — Daily Discipline",
+  "short_name": "Zeus",
+  "description": "A private, offline habit checklist with streaks.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#E9EAE4",
+  "theme_color": "#E9EAE4",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
